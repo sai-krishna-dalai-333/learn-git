@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-AppuApplication<appu>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.library.appu.AppuApplication",
+            "projectName": "appu",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
